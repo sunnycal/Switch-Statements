@@ -89,6 +89,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,12 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555607185079</updated>
-      <workItem from="1555607191569" duration="2679000" />
+      <workItem from="1555607191569" duration="3099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2679000" />
+    <option name="totallyTimeSpent" value="3099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="853" y="2" width="837" height="1047" extended-state="0" />
